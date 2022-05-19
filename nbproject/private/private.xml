@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/dal/UsersDAO.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/admin.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/assets/css/demo.css</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/OrderServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/footer.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/addProductForm.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/changeProfile.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/dal/ProductDAO.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/index.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/listOrder.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/Test.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/EditPhoto.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/header.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/model/Category.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/register.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/model/CartItem.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/LoginServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/adminedit.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/model/OrderItem.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/login.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/productDetail.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/AdminServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/WEB-INF/web.xml</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/assets/vendor/css/core.css</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/LogoutServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/EditProductServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/dal/Test.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/dal/CartDAO.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/AddToCartServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/model/Account.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/AddProductServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/cart.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/HomeServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/css/style.css</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/model/Rating.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/dal/OrderDAO.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/RegisterServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/web/viewHistory.jsp</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/controller/ProductServlet.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/model/Product.java</file>
+            <file>file:/E:/Reference/Java_Projects/FoodOrder_3/src/java/model/Order.java</file>
+        </group>
+    </open-files>
+</project-private>
